@@ -11,4 +11,4 @@ order: 4
 
 Hello! Welcome to my blog, here i'll document some of my project and share some thoughts and things i like.
 
-I am 17yo, currently at highschool.
+I am 17yo, currently at highschool..
