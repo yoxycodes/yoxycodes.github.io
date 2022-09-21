@@ -39,7 +39,7 @@ this allows the file trasnfer to make a safe and fast connection.
 
 ## Progress bar
 
-<iframe width="720" height="720" src="https://www.youtube.com/embed/v4_hRdEC7Fo" title="preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/v4_hRdEC7Fo" title="preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The progress bar is based on the file size of the file, displaying the bytes and time elapsed precise.
 
