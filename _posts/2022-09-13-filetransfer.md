@@ -5,7 +5,7 @@ categories: coding
 tags: [ "coding", "rust", "file" ]
 ---
 
-I've been working on this project for 1 week, this is a filetrasnfer i made with a friend, it's written in rust, i'd like to show you how it works and why it's the fastest ever.
+I've been working on this project for 1 week, this is a filetrasnfer i made with a friend, it's written in rust, i'd like to show you how it works and why it's the **fastest ever**.
 
 ## Speed
 
